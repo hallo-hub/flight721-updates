@@ -4,17 +4,17 @@
   "lastUpdated": "2026-10-03T08:27:53.868362+00:00",
   "files": [
     {
-      "path": "FLIGHT.721.-.The.Last.Signal.console.exe",
+      "path": "FLIGHT.721.-.The.Last.Signal.console.exe"
       "size": 65024,
       "sha256": "8a435fb1b6cc7aa7cae2386efea5fc947401bee905499ceda09e28000ddf42aa"
     },
     {
-      "path": "FLIGHT.721.-.The.Last.Signal.exe",
+      "path": "FLIGHT.721.-.The.Last.Signal.exe"
       "size": 103050752,
       "sha256": "ae3d29d762d6e34633a45f5172ac4ba5e2d241109576e41728728b460aa0283f"
     },
     {
-      "path": "FLIGHT.721.-.The.Last.Signal.pck",
+      "path": "FLIGHT.721.-.The.Last.Signal.pck"
       "size": 4225072,
       "sha256": "6a8ee70798997dd7ec2dc104e4f23458df6f59373e8c2f0d29d5b12b8594f3a9"
     }
